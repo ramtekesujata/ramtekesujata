@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sujata Ramteke](https://github.com/ramtekesujata) 👋
 
-I am pursuing my B.tech+M.tech dual degree in Metallurgical Engineering and Materials Science from [Indian Institute of Technology](https://www.iitb.ac.in/), Bombay. Apart from that, I am a seasonal ML developer who loves learn little bit of Semiconductors.
+I am pursuing my B.tech+M.tech dual degree in Metallurgical Engineering and Materials Science from [Indian Institute of Technology](https://www.iitb.ac.in/), Bombay. Apart from that, I am a seasonal ML developer who has keen interest in Semiconductors.
 
 **My Research Interest**:
 - Semiconductors
